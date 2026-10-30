@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Parcel](https://img.shields.io/badge/Bundled_with-Parcel_2-85D3C9?logo=parcel&logoColor=black)](https://parceljs.org/)
 [![Google Gemini](https://img.shields.io/badge/AI-Google_Gemini-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
-[![Firebase Hosting](https://img.shields.io/badge/Hosted_on-Firebase-FFCA28?logo=firebase&logoColor=black)](https://yumrun-2e144.web.app)
+[![Firebase Hosting](https://img.shields.io/badge/Hosted_on-Firebase-FFCA28?logo=firebase&logoColor=black)](https://yumrun-pro.vercel.app/)
 
 > **YumRun** is a full-featured, fast, and responsive food delivery and recipe exploration single-page web application. Built with React 18, Redux Toolkit, and Tailwind CSS, it features real-time recipe discovery, an Instamart-style grocery market, instant checkout flows, persistent wishlist & cart management, and an intelligent multilingual culinary AI assistant powered by Google Gemini.
 
@@ -13,7 +13,7 @@
 
 ### 🔗 Live Links
 
-- 🌐 **Live Demo:** [https://yumrun-2e144.web.app](https://yumrun-2e144.web.app)
+- 🌐 **Live Demo:** [https://yumrun-pro.vercel.app/](https://yumrun-pro.vercel.app/)
 - 📦 **GitHub Repository:** [https://github.com/zaid154/YumRun](https://github.com/zaid154/YumRun)
 
 ---
@@ -216,7 +216,7 @@ firebase deploy --only hosting
 
 **Zaid**
 - GitHub: [@zaid154](https://github.com/zaid154)
-- Live App: [YumRun](https://yumrun-2e144.web.app)
+- Live App: [YumRun](https://yumrun-pro.vercel.app/)
 
 ---
 
